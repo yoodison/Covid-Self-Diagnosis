@@ -1,3 +1,3 @@
 # Covid-Self-Diagnosis
 
-https://half-asscoding.tistory.com/12
+Usage: https://half-asscoding.tistory.com/12
